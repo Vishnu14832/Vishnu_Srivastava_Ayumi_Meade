@@ -1,0 +1,205 @@
+# ============================================================================
+Persona_Name: AYUMI_MEADE
+Category: research_and_analysis
+No_Of_Turns: 50
+# ============================================================================
+
+--- TURN 0 (Day 1, 06:45) ---
+
+Check today’s calendar, inbox, board agenda, and shared drive. Angela thinks a newer budget packet may have appeared overnight. Tell me what changed, what now conflicts with Thursday evening or family time, and what needs to go into the board-action tracker.
+
+--- TURN 1 (Day 1, 07:15) ---
+
+Compare the latest budget packet with the CFO variance report and yesterday’s cabinet notes. If the numbers do not match, show me where the mismatch starts, which version looks newest, and log the discrepancy.
+
+--- TURN 2 (Day 1, 08:00) ---
+
+Patricia wants a budget shortfall update. Pull together only what is safe to share, flag any packet change, and note the live version in the tracker before you draft anything.
+
+--- TURN 3 (Day 1, 08:45) ---
+
+Review the Mirai STEM grant draft against the reviewer notes and shared-folder comments. Tell me whether the newest draft actually fixes the feedback, and flag any language that does not match the east-side visit plan.
+
+--- TURN 4 (Day 1, 09:30) ---
+
+Compare David’s bell-schedule note with the memo draft and Angela’s latest calendar hold. If there is a conflict with a visit or protected evening, call it out and add it to the negotiation notes.
+
+--- TURN 5 (Day 1, 10:15) ---
+
+Check the school-visit schedule and cabinet agenda together. Angela moved a few things around, and I need to know whether Wednesday morning still works for Hana’s call home and how the ripple effects land.
+
+--- TURN 6 (Day 1, 11:00) ---
+
+Draft a short board-safe note to Grace about the budget follow-up. Copy Angela, hold anything that touches personnel or pre-decisional budget material, and save the draft in the board-action folder.
+
+--- TURN 7 (Day 1, 12:00) ---
+
+Check the district comms draft and editorial calendar before anything goes out. Tell me whether the public wording still matches the internal version, and stop it if the website post is moving too early.
+
+--- TURN 8 (Day 1, 13:00) ---
+
+Compare the board packet comments with the shared-drive version history. Tell me which numbers are still changing, which ones are settled, and whether any old lines are lingering in footnotes or appendices.
+
+--- TURN 9 (Day 1, 14:00) ---
+
+Compare the facilities bond talking points with the current budget shortfall summary. Make sure the public FAQ and internal memo are not drifting apart, and flag any wording that is too soft or too technical.
+
+--- TURN 10 (Day 1, 15:00) ---
+
+Check the service-request queue for anything that could affect the board room, audio setup, district schedule, or materials drop-off. Give me the practical impact first, then the ticket details, and log anything that needs escalation.
+
+--- TURN 11 (Day 1, 16:30) ---
+
+List everything still waiting on my sign-off and separate it from what can wait until morning. Flag anything in the inbox that will age badly overnight, and keep it short.
+
+--- TURN 12 (Day 1, 18:00) ---
+
+I’m heading into family time, but I still need the household side checked. Make sure the grocery order, dinner plan, and tomorrow morning’s logistics are in shape, and keep district items out of it.
+
+--- TURN 13 (Day 1, 19:30) ---
+
+Check tomorrow’s calendar against my morning walk and first cabinet touchpoint. If something landed on top of protected time, tell me who changed it and whether the shift was silent.
+
+--- TURN 14 (Day 2, 06:30) ---
+
+Good morning on board meeting day. Start with the final packet, calendar, and inbox. Tell me what is firm, what is loose, and which packet version we are actually carrying into the room.
+
+--- TURN 15 (Day 2, 07:15) ---
+
+Check the slides and speaker notes against the appendix, cover page, and budget summary. If one version says something different, call out the exact line and identify the newer file.
+
+--- TURN 16 (Day 2, 08:00) ---
+
+Separate what is negotiable from what is not in David’s latest bell-schedule message. If it touches protected time or the union timeline, make that boundary obvious and add it to the log.
+
+--- TURN 17 (Day 2, 09:00) ---
+
+There is pressure to send budget material wider than planned. Hold that line, tell me who is already approved, and flag any request for figures before the board sees them.
+
+--- TURN 18 (Day 2, 10:00) ---
+
+Check the room, microphones, remote setup, and materials name check for the board meeting. If anything looks weak, give me the backup plan and log it with facilities.
+
+--- TURN 19 (Day 2, 11:30) ---
+
+After the meeting, capture the action items and compare them with Angela’s draft notes. Show me any gap between what was said and what got drafted, and save the recap draft.
+
+--- TURN 20 (Day 2, 13:30) ---
+
+Check whether the website announcement should go out today or wait. If it still carries budget language that belongs in the board room, strip it back and note the revision.
+
+--- TURN 21 (Day 2, 15:00) ---
+
+Compare the notes from the CFO, Grace, and Patricia. Tell me where they agree, where they do not, and which numbers or assumptions differ.
+
+--- TURN 22 (Day 2, 16:30) ---
+
+Hana texted and Kenji has a baseball conflict. Clean up the family calendar against school and district schedules, move the least painful thing if needed, and note any silent changes behind the conflict.
+
+--- TURN 23 (Day 2, 18:00) ---
+
+Check next week’s school visit and grant timeline before I sign off. If either moved, update the calendar, remove the old time, and tell me whether any follow-up email should wait until morning.
+
+--- TURN 24 (Day 2, 20:00) ---
+
+Recheck the grant checklist. If the newer version changed even a small requirement, tell me exactly what changed and which reviewer note triggered it. Name anything still waiting on another office.
+
+--- TURN 25 (Day 3, 06:15) ---
+
+Start with the weather, route, and school-visit schedule so I know whether I can stay on time. If a service request or parent meeting might throw off the day, surface it early and log it.
+
+--- TURN 26 (Day 3, 07:00) ---
+
+Compare the school-visit tracker with the district dashboard and last week’s walkthrough notes. Tell me where the visit notes stop matching staff reports, which file is newer, and log the discrepancy.
+
+--- TURN 27 (Day 3, 08:00) ---
+
+One principal sent a different attendance summary than what is in the shared document. Sort out which version is current, which is stale, and where the wrong number already landed.
+
+--- TURN 28 (Day 3, 09:30) ---
+
+Draft a short note to the community engagement team about Thursday evening. Keep it precise, avoid overstatement, and do not send it unless I say so.
+
+--- TURN 29 (Day 3, 10:30) ---
+
+Compare the HR vacancy snapshot with the staffing talking points for the board. Tell me whether anything changed, what the board will notice, and whether the numbers support the story.
+
+--- TURN 30 (Day 3, 11:30) ---
+
+Look at the student platform adoption summary and tell me whether the east-side schools look different from the west-side schools. Keep it high-level and note whether the dashboard or export is newer.
+
+--- TURN 31 (Day 3, 13:00) ---
+
+Check the facilities ticket queue for items that could affect next week’s board retreat. Focus only on changes that affect the room, schedule, or experience, and log the backlog note.
+
+--- TURN 32 (Day 3, 14:00) ---
+
+Summarize the family help desk tickets by trend, not by names. Tell me what parents are running into, whether the same issue keeps surfacing, and log the theme.
+
+--- TURN 33 (Day 3, 15:00) ---
+
+Review the website analytics for the latest announcement. Tell me whether the translated page is being found, whether the homepage is steering people correctly, and note the analytics snapshot date.
+
+--- TURN 34 (Day 3, 16:00) ---
+
+Pull shipment tracking for the board packet handouts. If anything is late, give me the backup plan, check for vendor follow-ups, and save the delivery status in the materials note.
+
+--- TURN 35 (Day 3, 17:00) ---
+
+Draft a steady reply to Grace without overexplaining. Keep anything budget or staffing-related internal, and store the draft for review.
+
+--- TURN 36 (Day 3, 19:00) ---
+
+Check Brendan’s invoice questions and keep them separate from district items. Tell me the amount and timing without dressing it up, and keep the family side out of the district record.
+
+--- TURN 37 (Day 4, 06:30) ---
+
+Start with the grant draft, comment log, and state reviewer notes. Tell me what still needs correction, and update the grant log with the current draft number.
+
+--- TURN 38 (Day 4, 07:30) ---
+
+Compare the two Mirai STEM write-ups and tell me exactly what changed. I need to know whether the revision improves the message or just smooths the language, and I want the comparison saved.
+
+--- TURN 39 (Day 4, 08:30) ---
+
+Check the timing for posts and email blasts against the board follow-up. If anything will step on internal cleanup or create duplicate explanations, stop it and do not release anything yet.
+
+--- TURN 40 (Day 4, 09:30) ---
+
+Give me one clean budget-shortfall summary that can travel across the website, board deck, and staff message. If the versions drift, identify the drift instead of averaging it out, and save the final wording.
+
+--- TURN 41 (Day 4, 10:30) ---
+
+Check whether any public-facing copy still includes internal deliberation language. If it does, strip it out and do not let anything go live until the review is done.
+
+--- TURN 42 (Day 4, 11:30) ---
+
+Make sure the volunteer reading slot and family commitments are still protected. If work is crowding them out or the calendar changed quietly, flag it before I agree to anything else.
+
+--- TURN 43 (Day 4, 12:30) ---
+
+Draft a short note to Bāchan and the family thread about dinner tonight. Keep it warm, simple, and free of district business, and mention any timing change directly.
+
+--- TURN 44 (Day 4, 13:30) ---
+
+Review the calendar again because Thursday evening is usually protected. If something got added after this morning, tell me who added it and whether it needs to come off.
+
+--- TURN 45 (Day 4, 14:30) ---
+
+If any shipment or vendor issue could affect the board retreat materials, handle it now. Give me the practical consequence first, the vendor name second, and record the issue in the tracker.
+
+--- TURN 46 (Day 4, 16:00) ---
+
+Double-check the final grant packet against the signed-off copy. If there is even one unresolved mismatch, name it before anything goes out and hold the packet until it is ready.
+
+--- TURN 47 (Day 4, 17:30) ---
+
+Tell me what still depends on my approval and what is already done. Separate the hard stops from the routine items, and keep the list short and honest.
+
+--- TURN 48 (Day 4, 19:30) ---
+
+Check the inbox, calendar, and shared folders for anything that quietly changed after my last review. Confirm nothing moved if that is true, and flag any late change now.
+
+--- TURN 49 (Day 4, 20:15) ---
+
+One last read on anything that still looks unstable across the district pieces. Keep it short and concrete: what changed, what is still open, and whether I can stop checking for the night.
